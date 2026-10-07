@@ -211,4 +211,4 @@ Snaplr is offered as a full free version with all features and updates included.
 Start capturing your screen with Snaplr today! Download now for a seamless experience.
 
 ---
-**Last updated:** 2026-10-07 09:43:24 UTC
+**Last updated:** 2026-10-07 17:11:59 UTC
